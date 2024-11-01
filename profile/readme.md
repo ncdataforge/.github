@@ -3,7 +3,7 @@
 ## 📌 Integrantes
 
 <p align="center">
-  <img src="src/integrantes.jpeg">
+  <img src="src/integrantes.png">
 </p>
 
 
